@@ -1,9 +1,9 @@
 {
-  "name": "no-wall-repair-continued",
+  "name": "NoWallRepairContinued",
   "version": "0.1.0",
   "title": "No Wall Repair Continued",
   "author": "killparadise",
-  "homepage": "https://github.com/dusty-modding/factorio/No_Wall_Repair_Continued",
+  "homepage": "https://github.com/dusty-modding/factorio/tree/main/No_Wall_Repair",
   "factorio_version": "2.0",
   "dependencies": ["base >= 1.0", "? Tree-Nuke", "? space-age"],
   "description": "Disable repair for walls. This will prevent bots from sitting on walls 'repairing' them and taking damage / dying needlessly."
