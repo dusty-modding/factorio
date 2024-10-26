@@ -1,0 +1,9 @@
+{
+  "name": "CheapRailsAndConcrete",
+  "version": "1.0.0",
+  "title": "Cheap Rails and Concrete",
+  "author": "killparadise",
+  "homepage": "https://github.com/dusty-modding/factorio/tree/main/CheapRailsAndConcrete",
+  "description": "Multiplies the production of rails by 5 and concrete by 10.",
+  "factorio_version": "2.0"
+}
